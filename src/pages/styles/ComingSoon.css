@@ -1,0 +1,13 @@
+.main {
+    width: 100%;
+    height: calc(100vh - 24px);
+    background-color: #111;
+    text-align: center;
+    padding: 24px 0 0  0 ;
+    color: #eee;
+}
+
+h1 {
+    margin: 256px 0 64px 0;
+    font-size: 48px;
+}
